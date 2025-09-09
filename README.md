@@ -5,7 +5,5 @@ Struktur repository ini dibagi per hari agar lebih terorganisir.
 
 ## Progress
 
-| Day | Topik | Catatan & Kode |
-|-----|-------|----------------|
-| 1   | Dasar sintaks Java, compile & run | [📂 day1](day1) |
-| 2   | Input-Output sederhana, multi-class | [📂 day2](day2) |
+- [Day 1 – Dasar sintaks Java, compile & run](day1)
+- [Day 2 – Input-Output sederhana, multi-class](day2)
