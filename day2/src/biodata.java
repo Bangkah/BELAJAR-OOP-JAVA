@@ -12,6 +12,7 @@ public class biodata {
         char karakter = 'A';
         String tanggalLahir = "20 Februari 2007";
 
+        System.out.println("BIODATA SAYA");
         System.out.println("NAMA            : " + nama);
         System.out.println("ALAMAT          : " + Alamat);
         System.out.println("TEMPAT LAHIR    : " + tempatLahir);
@@ -19,7 +20,7 @@ public class biodata {
         System.out.println("HOBI            : " + hobi);
         System.out.println("WARNA KESUKAAN  : " + warnaKesukaan);
 
-        System.out.println("______");
+        System.out.println("_____________________________________");
 
         System.out.println("isi variabel nilai      = " + nilai);
         System.out.println("isi variabel IPK        = " + ipk);
