@@ -1,18 +1,23 @@
-## Getting Started
+# Belajar Java OOP - DAY 3
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📚 Materi yang Dipelajari Hari Ini
+Pada day ke-3 ini, saya mempelajari dasar-dasar **operator** dan **kondisi** dalam bahasa Java.  
+Beberapa hal penting yang saya pelajari hari ini adalah:
 
-## Folder Structure
+1. **Operator di Java**
+   - **Operator Aritmatika**: `+`, `-`, `*`, `/`, `%`
+   - **Operator Assignment**: `=`, `+=`, `-=`, `*=`, `/=`, `%=`
+   - **Operator Increment/Decrement**: `++` (pre/post), `--` (pre/post)
+   - **Operator Pembanding**: `==`, `!=`, `>`, `<`, `>=`, `<=`
 
-The workspace contains two folders by default, where:
+**hasil**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![alt text](image-1.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+2. **Kondisi (if-else)**
+   - Membuat logika percabangan sederhana dengan `if`, `else if`, dan `else`
+   - Digunakan untuk menentukan aksi berdasarkan pilihan user
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**hasil**
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   ![alt text](image.png)
